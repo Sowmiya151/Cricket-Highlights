@@ -75,19 +75,20 @@ The system uses:
 ---
 
 ## 📁 Project Structure
-
+---
 cricket-highlights-system/
 │
 ├── data/
-│   └── cricketdata.csv
+│ └── cricketdata.csv
 │
 ├── src/
-│   ├── overall_highlights.cpp
-│   ├── mid_match.cpp
-│   ├── selective_events.cpp
-│   └── display.cpp
+│ ├── overall_highlights.cpp
+│ ├── mid_match.cpp
+│ ├── selective_events.cpp
+│ └── display.cpp
 │
 ├── docs/
-│   └── project_report.pdf
+│ └── project_report.pdf
 │
 └── README.md
+---
