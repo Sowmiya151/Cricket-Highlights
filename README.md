@@ -75,7 +75,7 @@ The system uses:
 ---
 
 ## 📁 Project Structure
----
+```
 cricket-highlights-system/
 │
 ├── data/
@@ -91,4 +91,4 @@ cricket-highlights-system/
 │ └── project_report.pdf
 │
 └── README.md
----
+```
