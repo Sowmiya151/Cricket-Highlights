@@ -92,3 +92,25 @@ cricket-highlights-system/
 │
 └── README.md
 ```
+
+
+---
+
+## 📈 Output
+- 📍 Over-wise highlight timeline  
+- 🎯 Event-based highlights (Wicket, Six, Four)  
+- 📊 Ranked highlight clips  
+
+---
+
+## 🎯 Future Enhancements
+- Integration with real-time video streaming  
+- Machine learning-based prediction  
+- Mobile/Web dashboard  
+- Live match analytics  
+
+---
+
+
+## 🌟 Conclusion
+This project provides an efficient, scalable, and real-time solution for automated cricket highlight generation, improving viewer experience and reducing manual workload.
